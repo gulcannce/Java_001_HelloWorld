@@ -6,7 +6,7 @@ public class main {
 
         System.out.println("Hello world!");
         System.out.print("Merhaba");
-        System.out.print(" Dünya");
+        System.out.print(" Dünya"); 
 
     }
 
